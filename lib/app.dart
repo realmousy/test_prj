@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-import 'constant/colors.dart';
+import 'constant/theme/colors.dart';
 import 'screens/screen_0.dart';
 import 'screens/screen_1.dart';
 import 'screens/screen_2.dart';

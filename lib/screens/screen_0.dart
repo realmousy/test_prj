@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:gap/gap.dart';
 
-import '../constant/colors.dart';
+import '../constant/theme/colors.dart';
 import 'screen_1.dart';
 import 'screen_2.dart';
 
